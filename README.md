@@ -14,7 +14,6 @@ instrumentos, visão computacional, relatórios técnicos e gestão metrológica
 | [HALO](https://github.com/rafablauth1/Halo) | Ensaios de emissão CISPR 15 e imunidade IEC 61000-4, com controle de receiver R&S e geradores por GPIB | Python · PySide6 · PyVISA |
 | [Vaia Aí](https://github.com/rafablauth1/Chega-A-) | App de futebol amador: grupos, times, placar ao vivo, ranking, financeiro e comunidade | Expo · React Native · Supabase |
 | [CISPR 15 LABELO](https://github.com/rafablauth1/CISPR-15_) | Gestão de ensaios EMC e do controle metrológico do laboratório | Electron · Next.js · TypeScript |
-| [Prime Decor](https://github.com/rafablauth1/Prime_Decor) | Página de links e catálogo de temas de uma loja de decoração de festas | HTML · CSS |
 
 ## Áreas de atuação
 
